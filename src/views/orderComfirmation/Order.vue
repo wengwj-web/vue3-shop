@@ -142,7 +142,7 @@ export default {
       &--first {
         margin-right: 0.12rem;
         color: #4fb0f9;
-        border: 1px solid #4fb0f9;
+        border: .01rem solid #4fb0f9;
       }
       &--last {
         margin-left: 0.12rem;
